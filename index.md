@@ -3,4 +3,4 @@
 我们是墨尔本当地较大的团购平台，为您提供生鲜蔬果、爆款甜品、海鲜肉蛋、零食饮料、高端滋补、美妆母婴等各类商品的团购服务，集品质、时效、服务为一体，为您提供送货上门服务。
 
 欢迎扫描二维码加好友拉您入群
-[Link](https://ws1.sinaimg.cn/large/4396c511gy1gllla5dmymj20vc14lash.jpg)
+[Link](https://imgchr.com/i/rZ4Soj)
