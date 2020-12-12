@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## Royal Fresh -- 墨尔本当地较大的团购平台
 
-You can use the [editor on GitHub](https://github.com/flyever/flyever.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+我们是墨尔本当地较大的团购平台，为您提供生鲜蔬果、爆款甜品、海鲜肉蛋、零食饮料、高端滋补、美妆母婴等各类商品的团购服务，集品质、时效、服务为一体，为您提供送货上门服务。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/flyever/flyever.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+欢迎扫描二维码加好友拉您入群
+[Link](https://ws1.sinaimg.cn/large/4396c511gy1gllla5dmymj20vc14lash.jpg)
